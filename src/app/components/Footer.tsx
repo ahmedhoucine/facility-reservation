@@ -14,10 +14,10 @@ const Footer = () => {
 
         <div className='flex flex-wrap gap-16 items-center justify-between'>
           <div className='flex-1'>
-            <p>123 Road</p>
+            <p>CENTRE URBAIN</p>
             <div className='flex items-center py-4'>
               <BsFillSendFill />
-              <p className='ml-2'>BONJOUR</p>
+              <p className='ml-2'>INSAT</p>
             </div>
             <div className='flex items-center'>
               <BsTelephoneOutbound />
@@ -25,7 +25,7 @@ const Footer = () => {
             </div>
             <div className='flex items-center pt-4'>
               <BiMessageDetail />
-              <p className='ml-2'>codewithlari</p>
+              <p className='ml-2'>INSAT</p>
             </div>
           </div>
 
@@ -35,14 +35,6 @@ const Footer = () => {
             <p className='pb-4'>Our Privacy Commitment</p>
             <p className='pb-4'>Terms of service</p>
             <p>Customer Assistance</p>
-          </div>
-
-          <div className='flex-1 md:text-right'>
-            <p className='pb-4'>Dining Experience</p>
-            <p className='pb-4'>Wellness</p>
-            <p className='pb-4'>Fitness</p>
-            <p className='pb-4'>Sports</p>
-            <p>Events</p>
           </div>
         </div>
       </div>
